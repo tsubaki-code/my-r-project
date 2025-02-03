@@ -1,4 +1,4 @@
-# my-r-project
+# my-r-project: logic addition (supervised learning)
 machine learning projects (01.2025)
 This project explores the factors that influence logical addition in the translation field."Logical addition" refers to the addition of words or phrases in the target text that are not explicitly present in the source text but are necessary to convey the meaning accurately.
 
